@@ -98,7 +98,7 @@ spr is a single-module library.
 2. Require the ModuleScript with `local spr = require(<path to spr>)`
 3. Follow the below code examples to get started with the API.
 
-Documentation on how to use ModuleScripts can be found [here.]([https://create.roblox.com/docs/reference/engine/classes/ModuleScript)
+Documentation on how to use ModuleScripts can be found [here.](https://create.roblox.com/docs/reference/engine/classes/ModuleScript)
 
 ## Examples
 
