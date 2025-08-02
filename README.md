@@ -26,7 +26,7 @@ spr.target(part, springDamping, springFrequency, { CFrame = CFrame.new(0, 10, 0)
 - spr animates directly over Roblox properties without additional layers of indirection.
 - spr performs runtime type checking, providing stronger typing than Roblox instance property setters.
 - spr knows how to animate in the ideal space for each datatype.
-    - For example, spr will automatically animate [Color3]([https://developer.roblox.com/en-us/api-reference/datatype/Color3](https://create.roblox.com/docs/reference/engine/datatypes/Color3)) values in perceptually-uniform [CIELUV space.](https://en.wikipedia.org/wiki/CIELUV)
+    - For example, spr will automatically animate [Color3]((https://create.roblox.com/docs/reference/engine/datatypes/Color3) values in perceptually-uniform [CIELUV space.](https://en.wikipedia.org/wiki/CIELUV)
 
 ## API
 
